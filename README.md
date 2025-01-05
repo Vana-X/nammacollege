@@ -1,3 +1,4 @@
 # nammacollege
 This is my first Github repository
-Author :  Vana.B.Pandiyan
+<br>
+Author-Vana.B.Pandiyan
